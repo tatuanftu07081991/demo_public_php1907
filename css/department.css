@@ -1,0 +1,40 @@
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: yellow;
+}
+
+a:hover {
+    text-decoration: none;
+    color: green;
+}
+
+.slGender {
+    width: 90px !important;
+}
+
+.yearList {
+    width: 84px;
+}
+
+th.alignLeft {
+    text-align: left;
+}
+
+th.alignCenter {
+    text-align: center;
+}
+
+th.alignRight {
+    text-align: right;
+}
