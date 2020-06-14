@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 tuan 1
-add
+add 1
 =======
 >>>>>>> parent of c3840c1... sua
